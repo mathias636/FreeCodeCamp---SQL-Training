@@ -1,0 +1,12 @@
+{
+  "name": "freecodecamp---sql-training",
+  "version": "1.0.0",
+  "description": "learning terminal commands by creating a website boilerplate using only the command line.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "matheus-galvao",
+  "license": "ISC"
+}
